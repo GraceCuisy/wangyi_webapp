@@ -14,7 +14,7 @@
     "core-js": "^3.6.5",
     "less-loader": "^6.1.1",
     "lib-flexible": "^0.3.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "nprogress": "^0.2.0",
     "postcss-plugin-px2rem": "^0.8.1",
     "stylus": "^0.54.7",
