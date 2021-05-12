@@ -19,7 +19,7 @@
     "postcss-plugin-px2rem": "^0.8.1",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
-    "swiper": "^5.4.5",
+    "swiper": "^6.5.1",
     "vant": "^2.8.7",
     "vue": "^2.6.11",
     "vue-router": "^3.3.4",
